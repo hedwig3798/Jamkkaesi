@@ -14,18 +14,18 @@ Release를 확인해 주세요
 
 ---
 # 프로젝트 소개
-- 기간
-    시작 : 2023 / 07 / 20
-    알파 릴리즈 : 2023 / 08 / 24
-    1차 릴리즈 : 2023 / 08 / 25
-    최종 릴리즈 : 2023 / 09 / 08
-- 개발환경
-    Visual Studio 2022
-    SVN
-- 언어 및 라이브러리
-    C/C++
-    DirectX 2D
-    fmod
+- 기간   
+    &nbsp;&nbsp;&nbsp;시작 : 2023 / 07 / 20   
+    &nbsp;&nbsp;&nbsp;알파 릴리즈 : 2023 / 08 / 24   
+    &nbsp;&nbsp;&nbsp;1차 릴리즈 : 2023 / 08 / 25   
+    &nbsp;&nbsp;&nbsp;최종 릴리즈 : 2023 / 09 / 08   
+- 개발환경   
+    &nbsp;&nbsp;&nbsp;IDEL : Visual Studio 2022   
+    &nbsp;&nbsp;&nbsp;협업 : SVN, Discord   
+- 언어 및 라이브러리   
+    &nbsp;&nbsp;&nbsp;C/C++   
+    &nbsp;&nbsp;&nbsp;DirectX 2D   
+    &nbsp;&nbsp;&nbsp;fmod   
 ---
 # More
 https://www.notion.so/Daily-Scrum_-a4cf43a54a6b48cb85a2b3ca7a515888
