@@ -1,6 +1,6 @@
 # 잠깨시
 ### 카타르시스 탑뷰 액설 캐쥬얼 게임 잠에서 깨어날 때까지 시간을 벌어줘!!!   
-
+![Title_img](https://github.com/hedwig3798/Jamkkaesi/assets/71327618/d3b1bf9e-896f-4505-8d21-e6ee6e579fa3)
 # 주의!   
 
 DNFBitBitTTF.ttf 파일 열어서 폰트를 설치한 후에 게임 시작해주세요!
